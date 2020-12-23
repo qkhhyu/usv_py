@@ -1,0 +1,1 @@
+pyinstaller -Fw --add-data="beidou.ui;." --icon="zkxl.ico" --name="±±∂∑πÏº£≤‚ ‘π§æﬂ_V1.0.1"  main.py 
